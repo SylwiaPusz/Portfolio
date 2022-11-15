@@ -2,9 +2,7 @@
 
 My name is Sylwia, and I’m a technical writer. I create, write, design, and explore. In most cases, this applies to the project and product documentation – I prepare templates and drafts, write content based on provided materials, delve into project nuances and details to better understand the purpose and usage, and then share my knowledge with the world. I wear many hats, as sometimes technical writers are considered copywriters, content designers, information architects, usability experts, and translators (with a focus on localization and inclusive language). After hours, my passion is linguistics (both English and Polish languages), cinematography, contemporary art, street art, and psychology.
 
-![image](https://i.ibb.co/Q9XMzqB/profilowe23.jpg)
 
-*Ujazdowski Castle, Center for Contemporary Art, February 2020*
 
 ---
 
