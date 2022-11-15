@@ -2,7 +2,7 @@
 
 My name is Sylwia, and I’m a technical writer. I create, write, design, and explore. In most cases, this applies to the project and product documentation – I prepare templates and drafts, write content based on provided materials, delve into project nuances and details to better understand the purpose and usage, and then share my knowledge with the world. I wear many hats, as sometimes technical writers are considered copywriters, content designers, information architects, usability experts, and translators (with a focus on localization and inclusive language). After hours, my passion is linguistics (both English and Polish), cinematography, modern art, and psychology.
 
-![alt text](https://scontent.fwaw3-2.fna.fbcdn.net/v/t39.30808-6/296100327_5897417550273197_5069724767594378578_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6J6teHubQPkAX8YzoMc&_nc_oc=AQmXYFrT-vSAl1n-an0bIktFVG-tqDRBepZTQ9LJbygeK096IxA1ndbEHMie_B-jdXQ&_nc_ht=scontent.fwaw3-2.fna&oh=00_AfC7lYGCVjiUPpGwngBQF8o21lXdzyYEsuuU0UZYRG085A&oe=637249E4)
+![alt text](./profilowe.jpg)
 
 
 ## Case study #1 (redesign)
