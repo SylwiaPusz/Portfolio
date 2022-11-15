@@ -1,9 +1,8 @@
 # About me
 
-My name is Sylwia, and I’m a technical writer. I create, write, design, and explore. In most cases, this applies to the project and product documentation – I prepare templates and drafts, write content based on provided materials, delve into project nuances and details to better understand the purpose and usage, and then share my knowledge with the world. I wear many hats, as sometimes technical writers are considered copywriters, content designers, information architects, usability experts, and translators (with a focus on localization and inclusive language). After hours, my passion is linguistics (both English and Polish), cinematography, modern art, and psychology.
+My name is Sylwia, and I’m a technical writer. I create, write, design, and explore. In most cases, this applies to the project and product documentation – I prepare templates and drafts, write content based on provided materials, delve into project nuances and details to better understand the purpose and usage, and then share my knowledge with the world. I wear many hats, as sometimes technical writers are considered copywriters, content designers, information architects, usability experts, and translators (with a focus on localization and inclusive language). After hours, my passion is linguistics (both English and Polish languages), cinematography, modern art, and psychology.
 
-![alt text](./profilowe.jpg)
-
+---
 
 ## Case study #1 (redesign)
 
@@ -67,21 +66,25 @@ What was challenging about the system was explaining to *builders* how particula
 The first stage was to introduce layouts of different objects for both types of users. The below figures show how specific interface elements are explained to the users. 
 
 ![alt text](https://i.ibb.co/QDjHKkz/navigation-panel-ug-for-requesters.jpg)
+
 *The navigation panel and what it contains - from the manual for requesters*
 
 ***
 
 ![alt text](https://i.ibb.co/0Kf9kvf/layour-for-builders.jpg)
+
 *An overview of a specific Workflow: functionalities and how they work from the manual for builders*
 
 ***
 
 ![alt text](https://i.ibb.co/TWsw24z/note-for-builders.jpg)
+
 *Additional information in the green panel includes gifs for better understanding - from the manual for builders*
 
 ***
 
 ![alt text](https://i.ibb.co/PhDR77s/user-guide-for-builders-properties.jpg)
+
 *Creating new Workflows: filling in the Properties tab - from the manual for builders*
 
 ***
