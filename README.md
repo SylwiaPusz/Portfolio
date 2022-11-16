@@ -1,10 +1,9 @@
-# About me
+# About me 
+<img align="right" width="216" height="218" src="https://i.ibb.co/DMM4ZSs/zdj-cie-cv.jpg">
+
 
 My name is Sylwia, and I’m a technical writer. I create, write, design, and explore. In most cases, this applies to the project and product documentation – I prepare templates and drafts, write content based on provided materials, delve into project nuances and details to better understand the purpose and usage, and then share my knowledge with the world. I wear many hats, as sometimes technical writers are considered copywriters, content designers, information architects, usability experts, and translators (with a focus on localization and inclusive language). After hours, my passion is linguistics (both English and Polish languages), cinematography, contemporary art, street art, and psychology.
-
-
-
----
+ 
 
 ## Case study #1 (redesign)
 
@@ -13,10 +12,6 @@ Let me introduce you a project I worked on and I’m going to use it as an examp
 I described the final product - a database in the form of a web application to be used by the HR department as well as the Sales department in case of a need to introduce candidates to customers. A solution to gather information on professional experience, skills, and competencies of employees with the possibility to generate a resume or CV; the solution can also be used to track the progress and performance of employees in their organization. 
 
 I prepared manuals for two types of users: generic users (employees) and those of higher level (team managers and team leaders). 
-
-The view designed for the generic users differs from what managers see. The employees of an organization fill in particular sections of their profiles. Some information is uploaded from an internal system (such as the name of the job’s position, seniority level, department, and supervisors) – it’s not editable. Sections such as Work experience, Education and language, Additional information on courses, certificates, honors and awards, Skills and technologies, Publications, Projects, and Endorsements are editable by the employees themselves. Additionally, there’s the About me section, where a person can write a few words of introduction. TMs and TLs can add to their employees’ profile information under the Cover letters section, for example, recommendations or a summary of the overall employee performance. Still, this is a part of the view prepared for employees. 
-
-Personal profiles of TMs and TLs can be used for project recommendations and recruitment. But there are some extra options available for them to manage their teams and employees. Each TM and TL have an extended menu on the left side of the page with access to, among others, Dashboard, Employee search, Report & Analysis, Candidates (for recruitment purposes – recruitment within the organization that is in search of the future employees that can be outsourced to a customer). 
 
 Based on my experience with this particular tool, I’d like to share my thought about the final product. Since I was not involved in the design process, I had no possibility to report my ideas. However, I believe some of my proposals might improve the user experience of the solution’s end-users. 
 
@@ -50,6 +45,7 @@ The below *After* version is how I would change the view. See the description fo
 5.	Let’s imagine that **the Star icon is used to add set filters to favorites and reuse those setting later, eventually**. 
 6.	The **Download XLS and Generate CV buttons are moved to the lower section** (where the search results are displayed).
 
+---
 
 ## Case study #2 (user guide)
 
@@ -91,4 +87,5 @@ The first stage was to introduce layouts of different objects for both types of 
 
 ***
 
-
+I hope you enjoyed my *portfolio* prepared as the GitHub page. The content was created by using the Markdown syntax. 
+Visual materials were done by using Snagit. 
